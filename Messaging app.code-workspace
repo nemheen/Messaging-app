@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../medical-chat"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "medical-chat"
+	}
+}

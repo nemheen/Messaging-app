@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "crypto": "^1.0.1",
+    "react": "^18.2.0",
+    "socket.io": "^4.7.4",
+    "stream-chat": "^8.23.1"
+  }
+}
